@@ -1,1 +1,1 @@
-web: gunicorn rapidapipractise.wsgi --log-file -
+web: gunicorn rapidapipractice.wsgi --log-file -
